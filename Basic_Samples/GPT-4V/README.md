@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 
 ### Microsoft Azure Endpoints
-In order to use REST API with Microsoft Azure endpoints, you need to set a series of configurations such as GPT-4V_DEPLOYMENT_NAME, OPENAI_API_BASE, OPENAI_API_VERSION in _config.json_ file. 
+In order to use REST API with Microsoft Azure endpoints, you need to set a series of configurations such as GPT-4V_DEPLOYMENT_NAME, OPENAI_API_BASE, OPENAI_API_VERSION in _config.json_ file. For more details on where to find these values, see [the quickstart for images](https://learn.microsoft.com/azure/ai-services/openai/gpt-v-quickstart#retrieve-key-and-endpoint). 
 
 ```js
 {
